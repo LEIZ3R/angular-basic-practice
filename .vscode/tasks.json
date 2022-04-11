@@ -8,13 +8,13 @@
       "isBackground": true,
       "problemMatcher": {
         "owner": "typescript",
-        "pattern": "$tsc",
+        "patten": "$tsc",
         "background": {
           "activeOnStart": true,
-          "beginsPattern": {
+          "beginsPatten": {
             "regexp": "(.*?)"
           },
-          "endsPattern": {
+          "endsPatten": {
             "regexp": "bundle generation complete"
           }
         }
@@ -26,13 +26,13 @@
       "isBackground": true,
       "problemMatcher": {
         "owner": "typescript",
-        "pattern": "$tsc",
+        "patten": "$tsc",
         "background": {
           "activeOnStart": true,
-          "beginsPattern": {
+          "beginsPatten": {
             "regexp": "(.*?)"
           },
-          "endsPattern": {
+          "endsPatten": {
             "regexp": "bundle generation complete"
           }
         }
